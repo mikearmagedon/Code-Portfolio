@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FormRequestHandler">
+    <Position X="21.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>src\main_http_server.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatRequestHandlerFactory">
+    <Position X="38.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>src\main_http_server.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HTTPChatServerApp">
+    <Position X="40.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAGAIAAABAAAAAQAEAAAAAAAAAAAAAAAAEAAAAAAQ=</HashCode>
+      <FileName>src\main_http_server.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoginRequestHandler">
+    <Position X="26" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAEAAAAAIAAAAAAEAAAAAAAAAAAAAAgAIAAA=</HashCode>
+      <FileName>headers\LoginRequestHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPartHandler">
+    <Position X="42" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAABAAAQAAEAAAAAAAABEABAABEAAAAAAAAA=</HashCode>
+      <FileName>headers\MyPartHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RegisterRequestHandler">
+    <Position X="5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAIAAAAAAEAIAAAAAAAAAIAAgAAAAg=</HashCode>
+      <FileName>headers\RegisterRequestHandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSocketRequestHandler">
+    <Position X="35.25" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAgAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>headers\WebSocketServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chat">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\chat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="favicon">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\favicon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="index">
+    <Position X="28.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\index.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jquery">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\jquery.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jqueryui">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\jqueryui.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jqueryuiss">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\jqueryuiss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logo">
+    <Position X="30.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\logo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="newmessagemp3">
+    <Position X="16.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\newmessagemp3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="newmessageogg">
+    <Position X="23.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\newmessageogg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="regist">
+    <Position X="33" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\regist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="script">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\script.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="styles">
+    <Position X="19" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resources\Generated Files\styles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poco::Net::HTTPRequestHandler">
+    <Position X="18" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>c:\poco\include\poco\net\httprequesthandler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,1 @@
+The compilation of this project requires the POCO C++ library(https://pocoproject.org/).

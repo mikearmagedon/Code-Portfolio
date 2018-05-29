@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Page Files">
+      <UniqueIdentifier>{0aeeb79d-5157-4f81-94cc-922173a05104}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Pages">
+      <UniqueIdentifier>{99fb68b6-d64f-436c-ab59-d4abad50bd64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\DB">
+      <UniqueIdentifier>{9fc2fd28-44ba-4269-9f1f-8ced01717db0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Generated Files">
+      <UniqueIdentifier>{a89bf683-1397-4326-9a0a-b8e20bc5c98b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="resources\Generated Files\index.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\logo.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main_http_server.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\favicon.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\regist.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\chat.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\styles.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\jquery.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\jqueryui.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\jqueryuiss.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\script.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\newmessagemp3.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="resources\Generated Files\newmessageogg.cpp">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resources\Generated Files\index.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\logo.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\favicon.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\regist.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="headers\Lazyheader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="headers\LoginRequestHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="headers\MyPartHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="headers\RegisterRequestHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="headers\WebSocketServer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\chat.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\styles.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\jquery.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\jqueryui.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\jqueryuiss.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\script.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\newmessagemp3.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resources\Generated Files\newmessageogg.h">
+      <Filter>Resource Files\Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\Page Files\index.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\Page Files\logo.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\styles.css">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\indexupdate.bat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\Page Files\favicon.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\Page Files\regist.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\Pages\index.html">
+      <Filter>Resource Files\Pages</Filter>
+    </None>
+    <None Include="resources\Pages\regist.html">
+      <Filter>Resource Files\Pages</Filter>
+    </None>
+    <None Include="resources\registupdate.bat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\chatupdate.bat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\Page Files\chat.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\Page Files\styles.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\Page Files\jquery.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\Page Files\jqueryui.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\Page Files\jqueryuiss.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\Page Files\script.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\script.js">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resources\Page Files\newmessagemp3.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="resources\Page Files\newmessageogg.cpsp">
+      <Filter>Resource Files\Page Files</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resources\logo.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resources\favicon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="resources\DB\users.txt">
+      <Filter>Resource Files\DB</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

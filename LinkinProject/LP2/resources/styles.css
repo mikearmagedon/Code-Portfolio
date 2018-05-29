@@ -1,0 +1,144 @@
+Body{
+	background: linear-gradient(#D9D0FF, white);
+}
+
+.own {
+    font-family:Calibri;
+	font-size:18px;
+	width: auto;
+	height: auto;
+    padding-left:5px;
+    margin-bottom:5px;
+	background:linear-gradient(white, #6cdd2a);
+    border-radius:5px;
+    border: 1px solid #292626;
+}
+.person{
+	border-bottom: 1px dashed;
+	border-color:grey;
+}
+
+#FtHeader{
+	height: 120px;
+	width: 1000px;
+	margin: auto;
+}
+
+#FtInBoxes{
+	height:auto;
+	width:238px;
+	margin:auto;
+	margin-top:250px;
+}
+
+#chatTable2{
+	height:auto;
+	margin: auto;
+	margin-top: 150px;
+	text-align: left;
+}
+
+#chatWindow{
+	background: linear-gradient(#F4F4F4, white);
+	height:390px;
+	width:582px;
+	margin:auto;
+	overflow-y: scroll;
+    white-space:normal;
+}
+
+#privateChatWindow{
+	background: linear-gradient(#F4F4F4, white);
+	height:390px;
+	width:582px;
+	margin:auto;
+	overflow-y: scroll;
+    white-space:normal;
+}
+
+#TxTBox{
+	width:628px;
+	height:100px;
+}
+
+.msg{
+	font-family:Calibri;
+	font-size:18px;
+	width: auto;
+	height: auto;
+    padding-left:5px;
+    margin-bottom:5px;
+	background:linear-gradient(#e7ebf6, #BDCDEF);
+    border-radius:5px;
+    border: 1px solid #292626;
+}
+
+.pmsg{
+	font-family:Calibri;
+	font-size:18px;
+	width: auto;
+	height: auto;
+    padding-left:5px;
+    margin-bottom:5px;
+	background:linear-gradient(#e7ebf6, #BDCDEF);
+    border-radius:5px;
+    border: 1px solid #292626;
+}
+
+#SendButton{
+	height:70px;
+	width:60px;
+}
+
+#LogoutButton{
+	height:30px;
+	width:60px;
+}
+
+#redirecting{
+    display:none;
+}
+
+#OnlineBox{
+	height:425px;
+	width:240px;
+    background:linear-gradient(#F4F4F4, white);
+    padding-left:5px;
+	border:1px solid #aaaaaa;
+	border-radius:4px;
+	margin:46px 0px 0px 0px;
+	overflow-y:scroll;
+}
+
+#serverMessage{
+	height:auto;
+	margin: auto;
+	margin-top: 200px;
+	text-align:center;
+}
+
+#tabs { 
+    padding:0px; 
+    background:none; 
+    border-width:0px; 
+}
+
+#tabs .ui-tabs-nav { 
+    padding-left:0px; 
+    background:transparent; 
+    border-width:0px 0px 1px 0px; 
+    -moz-border-radius:0px; 
+    -webkit-border-radius:0px; 
+    border-radius:0px; 
+}
+
+#tabs .ui-tabs-panel {
+    border-width: 0px 1px 1px 1px;
+}
+
+#tabs :focus {
+outline: -webkit-focus-ring-color auto 0px;
+outline-color: -webkit-focus-ring-color;
+outline-style: auto;
+outline-width: 0px;
+}
